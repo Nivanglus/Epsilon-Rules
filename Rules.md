@@ -22,7 +22,7 @@
   
 ## General Conduct
 
-1. Client Side Assists - Usage of Wireframe, Hitboxes or disabling of prejub are forbidden. If the question is risen that these are in use, they will be requested to be disabled or the offending user will be placed upon an auto returner or autokiller until compliance is met. Further refusal will result in a temporary timeout. 
+1. Client Side Assists - Usage of Wireframe, Hitboxes or disabling of prejump are forbidden. If the question is risen that these are in use, they will be requested to be disabled or the offending user will be placed upon an auto returner or autokiller until compliance is met. Further refusal will result in a temporary timeout. 
 
 2. Harrassment - While some level of shit talk is acceptable, we strive to avoid being toxic and cultivating an environment of such. We're all here to have fun and there is no need to attempt to "tilt" people for no reason as its assumed we're all adults.
 
