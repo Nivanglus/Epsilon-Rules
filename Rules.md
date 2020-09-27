@@ -71,7 +71,7 @@
 
 1. LBA Variants Rule - Legacy Armor types are not permitted for use at Araxia. We currently allow LBA variants that are hosted on Github or provided through open channels for transparency reasons. If utilizing directional armor there must be a way to report back the ratio modifiers on the armor per side.
 
-2. Armored Ground Vehicles - Ground vehicles must use an LBA version (LBA, LBA Light) based on the class of vehicle it is. A jeep realistically should not have full LBA let alone more than 25 HP. Tanks and the link are permitted up to 450 HP again, based on the class of tank and movement of the vehicle. 
+2. Armored Ground Vehicles - Ground vehicles must use an LBA version (LBA, LBA Light) based on the class of vehicle it is. A jeep realistically should not have full LBA let alone more than 25 HP. Tanks and the like are permitted up to 450 HP again, based on the class of tank and movement of the vehicle. 
 
 3. Armored Aircraft - Aircraft armor is limited to 200HP For gunship types and 500 HP for Fleetships. There should not be armor at ALL on fighters or basic bombers. 
 
