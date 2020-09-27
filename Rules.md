@@ -28,7 +28,7 @@
 
 3. Griefing - Griefing can be defined as intentionally causing script time or fps of the sim and/or users on the region to be decreased by intentional means. Crashing the sim applies in this case as well. This will automatically result in a 24 hour ban minimum.
 
-4. Sithacking - Sithacking or using personal teleports to access generally unaccesable areas to the public is not allowed. First offense will result in being shot, following will result in being placed on an autokiller or placed on a temporary timeout off sim.
+4. Sithacking - Sithacking or using personal teleports to access generally unaccesible areas to the public is not allowed. First offense will result in being shot, following will result in being placed on an autokiller or placed on a temporary timeout off sim.
 
 5. Safe Zones - Both home set locations at the corner of the sims are are safe zones. These are marked clearly by spawn doors or via a line on the ground. Accidental single cases will be forgiven but continued cases of firing into or attempting to enter these zones will result in a warning, then a time out and so on until the point is understood.
 
@@ -41,14 +41,14 @@
 
 1. Persistent Effects - Any persistent effect used must last a limit of 30 seconds and not replicate itself. This is enforced on a case by case basis due to the good old limitations of Second Life and timers. 
 
-2. General Gun Rles - Guns and the like must use a mag size reasonable for the type of weapon it is, and force a reload or overheat after that round limit is exceeded for a reasonable period of time. If during combat it is noticed that a weapon is not reloading at all, and it is not a result of simulator performance issues we reserve the right to request it be replaced.
+2. General Gun Rules - Guns and the like must use a mag size reasonable for the type of weapon it is, and force a reload or overheat after that round limit is exceeded for a reasonable period of time. If during combat it is noticed that a weapon is not reloading at all, and it is not a result of simulator performance issues we reserve the right to request it be replaced.
 
 3. Raycast Weaponry - Hybrid raycast is disallowed at Araxia. Raycast must use a reasonable offset for the type of weapon it is with partial damage configured for any offsets.
     - Agentlist weaponry is disallowed. If found to be using it and attempting to hide it, you will be warned and the item added to a blacklist.
-    - Sensor based Shotguns - Shotguns should be a reasonabe distance for the type of weapon it is. An automatic shotgun should not extend out to the maximum range of a sensor.        This is stupid. You are stupid for doing it.
+    - Sensor based Shotguns - Shotguns should be a reasonable distance for the type of weapon it is. An automatic shotgun should not extend out to the maximum range of a sensor.        This is stupid. You are stupid for doing it.
     - RC Offsets exceeding .05 are disallowed without prior testing and approval. 
     
-4. Expolosives and Effects - All explosives and AoE effects are required to do a raycast check to ensure that targets hit by it are not behind a wall or other obstruction. If the question is raised that RC checks are not in used the Defending OIC reserves the right to request the item be checked and will be permitted if theres no issue or put on banned equipment enforcer until we are sure an update has been applied to fix the issue.
+4. Explosives and Effects - All explosives and AoE effects are required to do a raycast check to ensure that targets hit by it are not behind a wall or other obstruction. If the question is raised that RC checks are not in used the Defending OIC reserves the right to request the item be checked and will be permitted if theres no issue or put on banned equipment enforcer until we are sure an update has been applied to fix the issue.
     - AN HUD is not permitted due to constant raycast check failures on the frag grenade.
     
 5. Usage of Closed Group Gear - Gear from closed groups is permitted on a case by case basis. See below for specific preapproved or banned cases:
