@@ -37,7 +37,7 @@
 
 6. Avatar Flight - Flying around is not permitted. You will be hit with a seeker missile.
 
-7. Movement Enhancers - Sprints are allowed so long as they have a minimum 5 second cooldown minimum between use. Boostpacks are disallowed until the sim is completed and all appropriately methods of traversal are added. Airstrafes are disallowed.
+7. Movement Enhancers - Sprints are allowed so long as they have a minimum 5 second cooldown minimum between use. Boostpacks are disallowed until the sim is completed and all appropriate methods of traversal are added. Airstrafes are disallowed.
 
 
 ## Infantry Weapons
