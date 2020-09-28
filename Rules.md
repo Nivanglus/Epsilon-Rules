@@ -1,7 +1,7 @@
 # Epsilon Security Consulting Rules of Engagement [27SEP2020]
 
 
-# # Common Sense Statuate
+## Common Sense Statute
 
   We're all about having fun here, so we keep the rules pretty limited, don't make us change that. Attempts to circumvent the rules through loopholes or through attempts at rule lawyering will result in finding yourself returned to a safehub. Please don't be a pain in the ass.
 
