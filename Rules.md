@@ -13,6 +13,7 @@
 - Vehicles
 - Deployables
 - Banned Equipment
+- Authorized 3rd Party Equipment
 
 ## The Big 4
 
@@ -33,11 +34,13 @@
 
 4. Sithacking - Sithacking or using personal teleports to access generally unaccesible areas to the public is not allowed. First offense will result in being shot, following will result in being placed on an autokiller or placed on a temporary timeout off sim.
 
-5. Safe Zones - Both home set locations at the corner of the sims are are safe zones. These are marked clearly by spawn doors or via a line on the ground. Accidental single cases will be forgiven but continued cases of firing into or attempting to enter these zones will result in a warning, then a time out and so on until the point is understood.
+5. Safe Zones - Both home set locations at the corner of the sims are are safe zones. These are marked clearly by spawn doors or via a line on the ground. Accidental single cases will be forgiven but continued cases of firing into or attempting to enter these zones will result in a warning, then a time out and so on until the point is understood. Attackers utilizing the line as a unsavory point to hide behind whilst utilizing indirect weaponry will result in the Safe Zones being breached until the behavior is stopped. 
 
 6. Avatar Flight - Flying around is not permitted. You will be hit with a seeker missile.
 
 7. Movement Enhancers - Sprints are allowed so long as they have a minimum 5 second cooldown minimum between use. Boostpacks are disallowed until the sim is completed and all appropriate methods of traversal are added. Airstrafes are disallowed.
+
+8. Tank Traps/Bollards - Built in sim anti-vehicle measures are there for a reason, attempting to bypass them utilizing a vehicle will result in the vehicle being returned and the offenders vehicle priviledges being revoked for the raid, continued cases will result in a two week vehicle restriction
 
 
 ## Infantry Weapons
@@ -101,4 +104,16 @@
 
   If an item is on this list it is likely considered to be super fucking lame or just generally pointless to be used in the current day and age. There are some cases of simply untrustworthy creators that may also be added to this list or removed as trustworthiness is established.
   
-  1. TBD
+  - Coercion Gear on Approval Basis ONLY
+  
+## Authorized 3rd Party Equipment
+  
+  This list is a basic break down of gear permitted by 3rd party "Civilians" on the defending side. If it's on this list it's universally permitted by anyone to use in a case of need.
+  
+  - Dkok Combat HUD sold by Ehrik Imari on Marketplace
+  - D18 Weapons by Hokusai Otsuka
+  - SLMC Vendor Weapons by Sin Straaf
+  - /MURDER\ Weapons by Crow (MarauderTwo)
+  - Heretech Weapons by Dread Hudson
+  - K18 by Katt (Ximonah Resident)
+  - Union Weaponry by Bailey
