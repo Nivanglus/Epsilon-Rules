@@ -1,4 +1,4 @@
-# Epsilon Security Consulting Rules of Engagement [27SEP2020]
+# Epsilon Security Consulting Rules of Engagement [1JAN2021]
 
 
 ## Common Sense Statute
@@ -68,7 +68,7 @@
 
 8. Seeker Weaponry - Seekers must make use of the newly adopted Seeker system developed by Sin and Criss Ixtar to allow for unified flare use. If there are questions on this rule as OIC for clarification. Seekers must also provide a lock on tone to the user being targeted.
 
-9. Breaches - Breaches are not permitted at this time. In the future they will be allowed once the Objective system is completed.
+9. Breaches - Breaches are not permitted at this time. 
 
 10. Repairs - LBA Repairs can be completed by avatar or vehicle but not through automatic means. Remote repairs are permitted up to a maximum range of 10m
 
@@ -86,7 +86,7 @@
 1. Deployable Health - HP Must be limited to 50 as a general standard. There are specific cases below that can stray from this rule.
     - Walls are permitted up to a maximum HP of 100. Exceeding this requires a user to be standing nearby to complete building. 
     - Interceptors should not exceed an HP of 25. They already block explosives, making them an irritant to shoot as well is super lame.
-    - Breaches when permitted should never be over 25 HP Inverse LBA.
+    - Breaches when/if permitted should never be over 25 HP Inverse LBA.
     - "Engineering Kit" Generators are permitted to have a maximum of 250 HP.
 
 2. Deployable Limits - Deployables are limited to 2 of each type per person. Interceptors are restricted to 1 per person due to the strength of them.
@@ -105,6 +105,7 @@
   If an item is on this list it is likely considered to be super fucking lame or just generally pointless to be used in the current day and age. There are some cases of simply untrustworthy creators that may also be added to this list or removed as trustworthiness is established.
   
   - Coercion Gear on Approval Basis ONLY
+  - Large scale AoE crowd control (ie. Chaos Riot Gas, etc)
   
 ## Authorized 3rd Party Equipment
   
