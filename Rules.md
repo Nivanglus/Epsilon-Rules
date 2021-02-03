@@ -1,4 +1,4 @@
-# Epsilon Security Consulting Rules of Engagement [1JAN2021]
+# Epsilon Security Consulting Rules of Engagement [3JAN2021]
 
 
 ## Common Sense Statute
@@ -64,7 +64,7 @@
     
 6. Riot Shields - Permitted but since it apparently needs to be stated clearly, Riot shields must not exceed 50 LBA HP and must go phantom or deactivate when firing. IE: DONT FIRE WHEN SHIELD IS UP RETARDS.
 
-7. Grapples - At this time Grapples are not permitted. 
+7. Grapples - At this time Grapples are permitted on a case by case basis. If the function of a grapple comes into question, you may be asked to demonstrate it to the defending OIC who will give it the thumbs up/down. 
 
 8. Seeker Weaponry - Seekers must make use of the newly adopted Seeker system developed by Sin and Criss Ixtar to allow for unified flare use. If there are questions on this rule as OIC for clarification. Seekers must also provide a lock on tone to the user being targeted.
 
