@@ -1,4 +1,4 @@
-# Epsilon Security Consulting Rules of Engagement [3JAN2021]
+# Epsilon Security Consulting Rules of Engagement [20MAR2021]
 
 
 ## Common Sense Statute
@@ -38,7 +38,11 @@
 
 6. Avatar Flight - Flying around is not permitted. You will be hit with a seeker missile.
 
-7. Movement Enhancers - Sprints are allowed so long as they have a minimum 5 second cooldown minimum between use. Boostpacks are disallowed until the sim is completed and all appropriate methods of traversal are added. Airstrafes are disallowed.
+7. Movement Enhancers - Sprints are allowed so long as they have a minimum 5 second cooldown minimum between use. Airstrafes are disallowed. Boost/Jet/Buttpacks are authorized at all times. We require attacking forces to check their jetpacks at the door with the Epsilon OIC. For permanent approval, contact Nivanglus Aya. There is a free buttpack in the attackers spawn for use. 
+
+    ## Currently authorized jetpacks
+        - ASR Condor Jetpack, etc.
+        - Jetpack made by Aria Thexios for Strelok
 
 8. Tank Traps/Bollards - Built in sim anti-vehicle measures are there for a reason, attempting to bypass them utilizing a vehicle will result in the vehicle being returned and the offenders vehicle priviledges being revoked for the raid, continued cases will result in a two week vehicle restriction
 
