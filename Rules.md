@@ -1,4 +1,4 @@
-# Epsilon Security Consulting Rules of Engagement [20MAR2021]
+# Epsilon Security Consulting Rules of Engagement [15MAY2021]
 
 
 ## Common Sense Statute
@@ -28,7 +28,7 @@
 
 1. Client Side Assists - Usage of Wireframe, Hitboxes or disabling of prejump are forbidden. If the question is risen that these are in use, they will be requested to be disabled or the offending user will be placed upon an auto returner or autokiller until compliance is met. Further refusal will result in a temporary timeout. 
 
-2. Harassment - While some level of shit talk is acceptable, we strive to avoid being toxic and cultivating an environment of such. We're all here to have fun and there is no need to attempt to "tilt" people for no reason as its assumed we're all adults.
+2. Harassment - While some level of shit talk is acceptable, we strive to avoid being toxic and cultivating an environment of such. We're all here to have fun and there is no need to attempt to "tilt" people for no reason as its assumed we're all adults. This includes pointless bullying and being a general shithead.
 
 3. Griefing - Griefing can be defined as intentionally causing script time or fps of the sim and/or users on the region to be decreased by intentional means. Crashing the sim applies in this case as well. This will automatically result in a 24 hour ban minimum.
 
@@ -45,6 +45,8 @@
         - Jetpack made by Aria Thexios for Strelok
 
 8. Tank Traps/Bollards - Built in sim anti-vehicle measures are there for a reason, attempting to bypass them utilizing a vehicle will result in the vehicle being returned and the offenders vehicle privileges being revoked for the raid, continued cases will result in a two-week vehicle restriction
+
+9. In the event of something in use on the sim comes into question, the standing OIC for ESC reserves the right to request a demonstration of said item or request its removal from combat until a later date if it needs eyes on it by more specialized individuals.
 
 
 ## Infantry Weapons
