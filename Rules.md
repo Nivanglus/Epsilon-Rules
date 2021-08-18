@@ -112,6 +112,7 @@
   
   - Coercion Gear on Approval Basis ONLY
   - Large scale AoE crowd control (ie. Chaos Riot Gas, etc)
+  - "Stun" effects. If it locks you in place and it isn't a Gravity grenade, don't use it.
   
 ## Authorized 3rd Party Equipment
   
