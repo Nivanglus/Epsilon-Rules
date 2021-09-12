@@ -1,9 +1,9 @@
-# Epsilon Security Consulting Rules of Engagement [17AUG2021]
+# Epsilon Security Consulting Rules of Engagement [12SEP2021]
 
 
 ## Common Sense Statute
 
-  We're all about having fun here, so we keep the rules pretty limited, don't make us change that. Attempts to circumvent the rules through loopholes or through attempts at rule lawyering will result in finding yourself returned to a safehub. Please don't be a pain in the ass.
+  We're all about having fun here, so we keep the rules pretty limited, don't make us change that. Attempts to circumvent the rules through loopholes or through attempts at rule lawyering will result in finding yourself returned to a safehub. Please don't be a pain in the ass. 
 
 ## Contents
 
@@ -28,13 +28,13 @@
 
 1. Client Side Assists - Usage of Wireframe, Hitboxes or disabling of prejump are forbidden. If the question is risen that these are in use, they will be requested to be disabled or the offending user will be placed upon an auto returner or autokiller until compliance is met. Further refusal will result in a temporary timeout. 
 
-2. Harassment - While some level of shit talk is acceptable, we strive to avoid being toxic and cultivating an environment of such. We're all here to have fun and there is no need to attempt to "tilt" people for no reason as its assumed we're all adults. This includes pointless bullying and being a general shithead.
+2. Harassment - While some level of shit talk is acceptable, we strive to avoid being toxic and cultivating an environment of such. We're all here to have fun and there is no need to attempt to "tilt" people for no reason as its assumed we're all adults. This includes pointless bullying and being a general shithead. If you're coming to the sim simply to get a rise out of people and have no intention of socialization or combat, you will be sent home.
 
 3. Griefing - Griefing can be defined as intentionally causing script time or fps of the sim and/or users on the region to be decreased by intentional means. Crashing the sim applies in this case as well. This will automatically result in a 24 hour ban minimum.
 
 4. Sithacking - Sithacking or using personal teleports to access generally inaccessible areas to the public is not allowed. First offense will result in being shot, following will result in being placed on an autokiller or placed on a temporary timeout off sim.
 
-5. Safe Zones - Both home set locations at the corner of the sims are are safe zones. These are marked clearly by spawn doors or via a line on the ground. Accidental single cases will be forgiven but continued cases of firing into or attempting to enter these zones will result in a warning, then a time out and so on until the point is understood. Attackers utilizing the line as a unsavory point to hide behind whilst utilizing indirect weaponry will result in the Safe Zones being breached until the behavior is stopped. 
+5. Safe Zones - Both home set locations at the corner of the sims are are safe zones. These are marked clearly by spawn doors or via a line on the ground. Accidental single cases will be forgiven but continued cases of firing into or attempting to enter these zones will result in a warning, then a time out and so on until the point is understood. Attackers utilizing the line as a unsavory point to hide behind whilst utilizing indirect weaponry will result in the Safe Zones being breached until the behavior is stopped, The same goes for attempts to immediately bum rush spawn on entry to sim.  
 
 6. Avatar Flight - Flying around is not permitted. You will be hit with a seeker missile.
 
@@ -43,8 +43,9 @@
     ## Currently authorized jetpacks
         - ASR Condor Jetpack, etc.
         - Jetpack made by Aria Thexios for Strelok
+        - Assault Pack from Chaos Indivisvm .413+
 
-8. Tank Traps/Bollards - Built in sim anti-vehicle measures are there for a reason, attempting to bypass them utilizing a vehicle will result in the vehicle being returned and the offenders vehicle privileges being revoked for the raid, continued cases will result in a two-week vehicle restriction
+8. What the OIC/Administration says goes. If this is mid combat we will wait until after combat to discuss the circumstances. Refusal to follow the instruction of the OIC/Administration will result in temporary removal from simulator bans of increasing length based on how annoying you are.
 
 9. In the event of something in use on the sim comes into question, the standing OIC for ESC reserves the right to request a demonstration of said item or request its removal from combat until a later date if it needs eyes on it by more specialized individuals.
 
@@ -63,14 +64,13 @@
 4. Explosives and Effects - All explosives and AoE effects are required to do a raycast check to ensure that targets hit by it are not behind a wall or other obstruction. If the question is raised that RC checks are not in used the Defending OIC reserves the right to request the item be checked and will be permitted if theres no issue or put on banned equipment enforcer until we are sure an update has been applied to fix the issue.
     - AN HUD is not permitted due to constant raycast check failures on the frag grenade.
     
-5. Usage of Closed Group Gear - Gear from closed groups is permitted on a case-by-case basis. See below for specific preapproved or banned cases:
+5. Usage of Closed Group Gear - Gear from closed groups is permitted on a case-by-case basis. See below for specific preapproved:
     - Coercion - Permitted but use restraint. Do not use the dumb dumb av flying sword.
     - AN - AN CAR and PDW are permitted for use as they have been extensively tested.
-    - Chaos Decretum - BANNED, Gear has not been appropriately kept up to date to current standards.
     
 6. Riot Shields - Permitted but since it apparently needs to be stated clearly, Riot shields must not exceed 50 LBA HP and must go phantom or deactivate when firing. IE: DONT FIRE WHEN SHIELD IS UP RETARDS.
 
-7. Grapples - At this time Grapples are permitted on a case-by-case basis. If the function of a grapple comes into question, you may be asked to demonstrate it to the defending OIC who will give it the thumbs up/down. 
+7. Grapples - At this time Grapples are permitted. If the function of a grapple comes into question, you may be asked to demonstrate it to the defending OIC who will give it the thumbs up/down. 
 
 8. Seeker Weaponry - Seekers must make use of the newly adopted Seeker system developed by Sin and Criss Ixtar to allow for unified flare use. If there are questions on this rule as OIC for clarification. Seekers must also provide a lock on tone to the user being targeted.
 
