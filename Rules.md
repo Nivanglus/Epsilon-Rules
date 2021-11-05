@@ -1,4 +1,4 @@
-# Epsilon Security Consulting Rules of Engagement [12SEP2021]
+# Epsilon Security Consulting Rules of Engagement [05OCT2021]
 
 
 ## Common Sense Statute
@@ -26,7 +26,7 @@
   
 ## General Conduct
 
-1. Client Side Assists - Usage of Wireframe, Hitboxes or disabling of prejump are forbidden. If the question is risen that these are in use, they will be requested to be disabled or the offending user will be placed upon an auto returner or autokiller until compliance is met. Further refusal will result in a temporary timeout. 
+1. Client Side Assists - Usage of Wireframe, Hitboxes or disabling of prejump are forbidden. If the question is risen that these are in use, they will be requested to be disabled or the offending user will be placed upon an auto returner or autokiller until compliance is met. Further refusal will result in a temporary timeout. This also includes avatar flying. 
 
 2. Harassment - While some level of shit talk is acceptable, we strive to avoid being toxic and cultivating an environment of such. We're all here to have fun and there is no need to attempt to "tilt" people for no reason as its assumed we're all adults. This includes pointless bullying and being a general shithead. If you're coming to the sim simply to get a rise out of people and have no intention of socialization or combat, you will be sent home.
 
@@ -36,18 +36,11 @@
 
 5. Safe Zones - Both home set locations at the corner of the sims are are safe zones. These are marked clearly by spawn doors or via a line on the ground. Accidental single cases will be forgiven but continued cases of firing into or attempting to enter these zones will result in a warning, then a time out and so on until the point is understood. Attackers utilizing the line as a unsavory point to hide behind whilst utilizing indirect weaponry will result in the Safe Zones being breached until the behavior is stopped, The same goes for attempts to immediately bum rush spawn on entry to sim.  
 
-6. Avatar Flight - Flying around is not permitted. You will be hit with a seeker missile.
+6. Movement Enhancers - Sprints are allowed so long as they have a minimum 5 second cooldown minimum between use. Airstrafes are disallowed. Boost/Jet/Buttpacks are **NOT ALLOWED** during our stay on the volcano build. 
 
-7. Movement Enhancers - Sprints are allowed so long as they have a minimum 5 second cooldown minimum between use. Airstrafes are disallowed. Boost/Jet/Buttpacks are authorized at all times. We require attacking forces to check their jetpacks at the door with the Epsilon OIC. For permanent approval, contact Nivanglus Aya. There is a free buttpack in the attackers spawn for use. 
+7. What the OIC/Administration says goes - If this is mid combat we will wait until after combat to discuss the circumstances. Refusal to follow the instruction of the OIC/Administration will result in temporary removal from simulator bans of increasing length based on how annoying you are.
 
-    ## Currently authorized jetpacks
-        - ASR Condor Jetpack, etc.
-        - Jetpack made by Aria Thexios for Strelok
-        - Assault Pack from Chaos Indivisvm .413+
-
-8. What the OIC/Administration says goes. If this is mid combat we will wait until after combat to discuss the circumstances. Refusal to follow the instruction of the OIC/Administration will result in temporary removal from simulator bans of increasing length based on how annoying you are.
-
-9. In the event of something in use on the sim comes into question, the standing OIC for ESC reserves the right to request a demonstration of said item or request its removal from combat until a later date if it needs eyes on it by more specialized individuals.
+8. In the event of something in use on the sim comes into question, the standing OIC for ESC reserves the right to request a demonstration of said item or request its removal from combat until a later date if it needs eyes on it by more specialized individuals.
 
 
 ## Infantry Weapons
@@ -70,7 +63,7 @@
     
 6. Riot Shields - Permitted but since it apparently needs to be stated clearly, Riot shields must not exceed 50 LBA HP and must go phantom or deactivate when firing. IE: DONT FIRE WHEN SHIELD IS UP RETARDS.
 
-7. Grapples - At this time Grapples are permitted. If the function of a grapple comes into question, you may be asked to demonstrate it to the defending OIC who will give it the thumbs up/down. 
+7. Grapples - At this time Grapples are not permitted
 
 8. Seeker Weaponry - Seekers must make use of the newly adopted Seeker system developed by Sin and Criss Ixtar to allow for unified flare use. If there are questions on this rule as OIC for clarification. Seekers must also provide a lock on tone to the user being targeted.
 
@@ -125,3 +118,8 @@
   - Heretech Weapons by Dread Hudson
   - K18 by Katt (Ximonah Resident)
   - Union Weaponry by Bailey
+
+## Volcano Build Specific Rules & Info
+
+  - Stay off the Dam. It entirely ruins sight lines on the sim and its mostly for looks. Same goes for the Volcano until the building and underground is completed. 
+  - More to follow as I think of it
