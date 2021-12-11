@@ -1,125 +1,159 @@
-# Epsilon Security Consulting Rules of Engagement [05OCT2021]
+# EPSILON SECURITY CONSULTING 
+
+RULES OF ENGAGEMENT
+
+SECURITY LEVEL: PUBLIC DOMAIN
+
+THIS IS A **LIVE** DOCUMENT THAT IS SUBJECT TO CHANGE AT ANY TIME. BE SURE TO CHECK BACH REGULARLY FOR NEW INFORMATION OR CONTACT THE OIC.
+
+## Table of Contents
+   - [Common Sense Statute](#common-sense-statute)
+   - [The Big Four](#the-big-four)
+   - [General Conduct](#general-conduct)
+   - [Infantry Gear](#infantry-gear)
+   - [Vehicles and LBA](#vehicles-and-lba)
+   - [Deployables](#deployables)
+   - [Authorized Third-Party Equipment](#authorized-third-party-equipment)
+   - [Banned Equipment](#banned-equipment)
+   - [Volcano Build Specific Information](#volcano-build-specific-information)
 
 
 ## Common Sense Statute
+ 
+  We're all about having fun here, so our biggest goal is to keep the rules simple and limited. We ask that you don't do things that motivate us to change that. Trying to circumvent the rules through loopholes or arguing over technicalitiess will likely get you returned to a safehub. Please don't be a pain in the ass.
 
-  We're all about having fun here, so we keep the rules pretty limited, don't make us change that. Attempts to circumvent the rules through loopholes or through attempts at rule lawyering will result in finding yourself returned to a safehub. Please don't be a pain in the ass. 
 
-## Contents
+## The Big Four
 
-- The Big 4
-- General Conduct
-- Infantry Weapons
-- Vehicles
-- Deployables
-- Banned Equipment
-- Authorized 3rd Party Equipment
-
-## The Big 4
-
-  We as Epsilon firmly believe in giving people chances at proper conduct and behavior -and strive to provide people second chances even based on past actions in the SLMC. Sometimes the extent of those actions extend beyond even our ability to brush it aside. The following are cases that will result in a permanent ban from Araxia and all Epsilon associated regions.
+  We as Epsilon Security Consulting firmly believe in giving people chances to show good behavior. We strive to provide people second chances in spite of past actions in the SLMC. However, sometimes the egregiousness of certain actions goes beyond even our ability to brush them aside. The following are cases that will result in a permanent ban from ESC's sim and any other ESC associated regions.
   
-    • Distribution of identifying real-life information about others (doxxing)
+    • Doxxing - distribution of identifying real-life information about others
     • GPU crashing or other griefing intended to damage real-life hardware
-    • Content Theft via abuse of permissions failures or copybotting and/or distribution of ill gotten content
-    • Mass abuse reporting
+    • Content theft via abuse of permissions failures or copybotting, as well as the distribution of that ill-gotten content
+    • Mass-abuse reporting
+  
   
 ## General Conduct
 
-1. Client Side Assists - Usage of Wireframe, Hitboxes or disabling of prejump are forbidden. If the question is risen that these are in use, they will be requested to be disabled or the offending user will be placed upon an auto returner or autokiller until compliance is met. Further refusal will result in a temporary timeout. This also includes avatar flying. 
+1. Harassment - While some level of competitive shit-talk is acceptable, we do not want to see toxic behavior. 
+   - We're all here to have fun, and there is no need to try and make people "tilt". This includes pointless bullying and being a general shithead. 
+   - If you're coming to the sim with the intent to piss people off and waste time, you will be sent home.
 
-2. Harassment - While some level of shit talk is acceptable, we strive to avoid being toxic and cultivating an environment of such. We're all here to have fun and there is no need to attempt to "tilt" people for no reason as its assumed we're all adults. This includes pointless bullying and being a general shithead. If you're coming to the sim simply to get a rise out of people and have no intention of socialization or combat, you will be sent home.
+2. Griefing - Griefing can be defined as producing any object in-world that intentionally causes script time to bog down or puts a strain on sim and/or users' FPS. Crashing the sim falls under this definition as well. 
+   - This will automatically result in a 24-hour ban, minimum.
 
-3. Griefing - Griefing can be defined as intentionally causing script time or fps of the sim and/or users on the region to be decreased by intentional means. Crashing the sim applies in this case as well. This will automatically result in a 24 hour ban minimum.
+3. Client-Side Assists - Usage of wireframe mode, display hitboxes, disabling of prejump, and avatar flight are prohibited. 
+   - If comes to our attention that these tools are being used, you will be asked to disable them. 
+   - Failure to comply with this request will result in placement on an auto returner or autokiller until compliance is met. 
+   - Further refusal will result in a temporary timeout or ban.
 
-4. Sithacking - Sithacking or using personal teleports to access generally inaccessible areas to the public is not allowed. First offense will result in being shot, following will result in being placed on an autokiller or placed on a temporary timeout off sim.
+4. Sithacking - Sithacking or using personal teleports to access areas that are otherwise off-limits to the public is not allowed. 
+   - The first offense will result in being shot. Subsequent offenses will result in offenders being placed on an autokiller or given a temporary timeout off-sim.
 
-5. Safe Zones - Both home set locations at the corner of the sims are are safe zones. These are marked clearly by spawn doors or via a line on the ground. Accidental single cases will be forgiven but continued cases of firing into or attempting to enter these zones will result in a warning, then a time out and so on until the point is understood. Attackers utilizing the line as a unsavory point to hide behind whilst utilizing indirect weaponry will result in the Safe Zones being breached until the behavior is stopped, The same goes for attempts to immediately bum rush spawn on entry to sim.  
+5. Safe Zones - Both spawn locations at the corner of the sim are are safe zones. These are marked clearly by spawn doors or by a line on the ground. 
+   - Accidental, isolated instances of breaching the safe zones will be forgiven, but continued or intentional cases of firing into or attempting to enter these zones will result in a warning, then a time out, and further until the point is understood.
+   - The same goes for attempts to immediately bum rush spawn on entry to the region. 
+   - Attackers who use the safe zone to hide from counter fire while employing indirect weaponry (for example, mortars) forfeit this protection and will be targeted until the behavior ceases. 
 
-6. Movement Enhancers - Sprints are allowed so long as they have a minimum 5 second cooldown minimum between use. Airstrafes are disallowed. Boost/Jet/Buttpacks are **NOT ALLOWED** during our stay on the volcano build. 
-
-7. What the OIC/Administration says goes - If this is mid combat we will wait until after combat to discuss the circumstances. Refusal to follow the instruction of the OIC/Administration will result in temporary removal from simulator bans of increasing length based on how annoying you are.
-
-8. In the event of something in use on the sim comes into question, the standing OIC for ESC reserves the right to request a demonstration of said item or request its removal from combat until a later date if it needs eyes on it by more specialized individuals.
-
-
-## Infantry Weapons
-
-1. Persistent Effects - Any persistent effect used must last a limit of 30 seconds and not replicate itself. This is enforced on a case-by-case basis due to the good old limitations of Second Life and timers. 
-
-2. General Gun Rules - Guns and the like must use a mag size reasonable for the type of weapon it is, and force a reload or overheat after that round limit is exceeded for a reasonable period of time. If during combat it is noticed that a weapon is not reloading at all, and it is not a result of simulator performance issues we reserve the right to request it be replaced.
-
-3. Raycast Weaponry - Hybrid raycast is disallowed at Araxia. Raycast must use a reasonable offset for the type of weapon it is with partial damage configured for any offsets.
-    - Agentlist weaponry is disallowed. If found to be using it and attempting to hide it, you will be warned, and the item added to a blacklist.
-    - Sensor based Shotguns - Shotguns should be a reasonable distance for the type of weapon it is. An automatic shotgun should not extend out to the maximum range of a sensor.        This is stupid. You are stupid for doing it.
-    - RC Offsets exceeding .05 are disallowed without prior testing and approval. 
-    
-4. Explosives and Effects - All explosives and AoE effects are required to do a raycast check to ensure that targets hit by it are not behind a wall or other obstruction. If the question is raised that RC checks are not in used the Defending OIC reserves the right to request the item be checked and will be permitted if theres no issue or put on banned equipment enforcer until we are sure an update has been applied to fix the issue.
-    - AN HUD is not permitted due to constant raycast check failures on the frag grenade.
-    
-5. Usage of Closed Group Gear - Gear from closed groups is permitted on a case-by-case basis. See below for specific preapproved:
-    - Coercion - Permitted but use restraint. Do not use the dumb dumb av flying sword.
-    - AN - AN CAR and PDW are permitted for use as they have been extensively tested.
-    
-6. Riot Shields - Permitted but since it apparently needs to be stated clearly, Riot shields must not exceed 50 LBA HP and must go phantom or deactivate when firing. IE: DONT FIRE WHEN SHIELD IS UP RETARDS.
-
-7. Grapples - At this time Grapples are not permitted
-
-8. Seeker Weaponry - Seekers must make use of the newly adopted Seeker system developed by Sin and Criss Ixtar to allow for unified flare use. If there are questions on this rule as OIC for clarification. Seekers must also provide a lock on tone to the user being targeted.
-
-9. Breaches - Breaches are not permitted at this time. 
-
-10. Repairs - LBA Repairs can be completed by avatar or vehicle but not through automatic means. Remote repairs are permitted up to a maximum range of 10m
+7. Demonstrations may be requested.
+   - In the event that a particular piece of equipment being used on the sim comes into question, the standing OIC for ESC reserves the right to request a demonstration of the item. 
+   - The OIC also reserves the right to request the equipment's removal from combat until a later date if it needs more observation by individuals who are more familiar with it. See Rule 7.
 
 
-## Vehicles
+8. What the OIC/Administration says goes, period.
+   - If there is a legitimate rule dispute mid-combat, it can and will wait until after combat to discuss the circumstances. 
+   - Refusal to follow the instruction of the OIC/Administration will result in temporary removal from the region, and depending on how annoying you are or how often you have done this in the past, bans of increasing length.
 
-1. LBA Variants Rule - Legacy Armor types are not permitted for use at Araxia. We currently allow LBA variants that are hosted on Github or provided through open channels for transparency reasons. If utilizing directional armor, there must be a way to report back the ratio modifiers on the armor per side.
 
-2. Armored Ground Vehicles - Ground vehicles must use an LBA version (LBA, LBA Light) based on the class of vehicle it is. A jeep realistically should not have full LBA let alone more than 25 HP. Tanks and the like are permitted up to 450 HP again, based on the class of tank and movement of the vehicle. 
+## Infantry Gear
 
-3. Armored Aircraft - Aircraft armor is limited to 200HP for gunship types and 500 HP for Fleetships. There should not be armor at ALL on fighters or basic bombers. 
+1. Movement Enhancers
+   - Sprints are allowed as long as they have a minimum 5-second cooldown between use.
+   - Dodgerolls are permitted. 
+   - Boost/Jet/Buttpacks are **PROHIBITED** on the current Volcano/Mars build. 
+   - Grapples are **prohibited** on the current Volcano/Mars build.
+   - Breaches are **prohibited** on the current Volcano/Mars build.
+   - Air strafing is prohibited. 
+
+2. Gun Reload/Cooldown - Guns and energy weapons must use a magazine size reasonable for that particular type of weapon, and they must force a reload or overheat period after that round limit is exceeded that lasts a reasonable period of time. 
+   - If it comes to our attention that a weapon isn't reloading at all and it is not a result of simulator performance issues, we reserve the right to request it be replaced.
+
+3. Raycast Weaponry - Hybrid raycast is prohibited on ESC's sim. Raycast must use a reasonable offset for the that particular type of weapon and partial damage must be configured for any offsets.
+   - RC offsets exceeding .05 are prohibited unless they have had prior testing and approval.
+   - Sensor-based shotguns - Shotguns should be a limited to a reasonable range for their respective types. For example, an automatic shotgun should not extend out to the maximum range of a sensor. 
+   - Agentlist weaponry is prohibited. If we discover you are using it and attempting to hide it, you will be warned, and the item added to a blacklist.
+
+4. Explosives and Effects - All explosives and AoE effects are required to perform a raycast check to ensure that targets hit by it are not behind a wall or other obstruction.      - If the explosion does not appear to be performing raycast checks, the standing OIC for ESC reserves the right to request the item be checked. 
+     - If there is a problem, you will be asked not to use it until you can show that an update has been applied to fix the issue.
+
+5. Seeker Weaponry - Seekers must make use of the newly adopted seeker system developed by Sin and Criss Ixtar to allow for unified flare use. Seekers must also provide a lock-on tone to the target.
+
+6. Persistent Effects - Any persistent effect used can last no longer than 30 seconds and may not replicate itself. This is enforced on a case-by-case basis due to the good old limitations of Second Life and timers. 
+
+7. Riot Shields - Permitted. However, since it apparently needs to be stated clearly, riot shields must not exceed 50 LBA HP and must go phantom or deactivate when firing.
+   - IN OTHER WORDS, DONT FIRE WHEN SHIELD IS UP, RETARDS.
+
+8. Usage of Closed/Defunct Group Gear - Gear from closed groups is permitted on a case-by-case basis. Below is a limited list of specific things that are preapproved:
+    - Coercion: Permitted, but exercise common sense. Do not use the dumb dumb av-flying sword.
+    - AN: The AN CAR and PDW are permitted for use as they have been extensively tested.
+
+
+## Vehicles and LBA
+
+1. LBA Variants Rule - For transparency reasons, we currently only allow LBA variants that are hosted on Github or provided through open channels. 
+   - If you are utilizing directional armor, there must be a way to report back the ratio modifiers on the armor per each side.
+   - Legacy Armor types are not permitted for use at ESC's sim.
+
+2. Armored Ground Vehicles - Ground vehicles must use an LBA version (LBA, LBA Light) that makes sense for its respective type.
+   - The faster and and more lightweight the vehicle is, the less armor it should have, and vice versa. 
+   - As an example, a Jeep should not have full LBA, let alone more than 25 HP. Tanks and similar vehicles are allowed up to 450 HP and should make sense.
+
+3. Armored Aircraft - Aircraft armor is limited to 200HP for gunship-type craft and 500 HP for fleetships. Armor is prohibited on fighters and basic bombers. 
+
+4. Repairs - LBA Repairs may be completed by manually by users or while in a vehicle, but may not be completed by automated means. 
+   - Remote repairs are permitted, up to a maximum range of 10m.
+
 
 ## Deployables
 
-1. Deployable Health - HP Must be limited to 50 as a general standard. There are specific cases below that can stray from this rule.
-    - Walls are permitted up to a maximum HP of 100. Exceeding this requires a user to be standing nearby to complete building. 
-    - Interceptors should not exceed an HP of 25. They already block explosives, making them an irritant to shoot as well is super lame.
-    - Breaches when/if permitted should never be over 25 HP Inverse LBA.
-    - "Engineering Kit" Generators are permitted to have a maximum of 250 HP.
+1. Deployable Health Limits - A general limit of 50 HP applies. The following are exceptions to this general rule.
+    - Walls are permitted up to a maximum HP of 100. To be more than this, the user must be required to stay nearby until it is fully built. 
+    - Interceptors should not exceed 25 HP.
+    - Breaches (not permitted at this time) should never exceed 25 HP Inverse LBA.
+    - "Engineering kit" generators are permitted to have a maximum of 250 HP.
 
-2. Deployable Limits - Deployables are limited to 2 of each type per person. Interceptors are restricted to 1 per person due to the strength of them.
+2. Deployable Limits - Deployables are limited to 2 of each type per person. Interceptors are restricted to 1 deployed per person.
 
-3. Mines - Mines are limited to 5 per person maximum. Mines must be able to receive and be destroyed by LBA or bullet damage and have a reasonable sensor for activation on them. 
+3. Mines - Mines are limited to 5 per person maximum. Mines must be able to be destroyed by LBA or bullet damage and be built with a reasonable activation sensor. 
 
-4. Sit Barricades - Sit Barricades are permitted but each person gets 1 per life unless persistent memory of health is used to continue the last health available on the barricade when being moved and must use LBA Light. This can be adjusted on a case-by-case basis.
+4. Sit Barricades - Sit Barricades are permitted.
+   - Each person gets 1 per life, unless it is moveable.
+   - If it is moveable, it must use LBA light and have persistent memory of health that continues from the last health amount available before it was moved. 
+   - This can be adjusted on a case-by-case basis.
 
-5. Automated Turrets - Automated turrets are permitted as long as they are connected to an energy source that is able to be destroyed. Otherwise, they are not permitted at Araxia. Anti-Air turrets requiring a lockon must also provide a lockon tone before firing and while missile is in transit to its location.
+5. Automated Turrets - Automated turrets are permitted ONLY if they are connected to a destructible energy source. Anti-air turrets that lock on targets must also provide a lock-on tone to the target before firing and while the ordinance is in transit.
 
-6. NPCs - NPCs are permitted on a case-by-case basis. HP is limited to 25 LBA-L. Ask the defending OIC for approval. 
+6. NPCs - NPCs are permitted on a case-by-case basis. 
+   - HP is limited to 25 LBA-L. Ask the defending OIC for approval. The OIC reserves the right to say no if the defending side doesn't feel like putting up with it.
 
 
 ## Banned Equipment
 
-  If an item is on this list it is likely considered to be super fucking lame or just generally pointless to be used in the current day and age. There are some cases of simply untrustworthy creators that may also be added to this list or removed as trustworthiness is established.
+  If an item is on this list, it was put there for a reason. It is likely considered to be super fucking lame or just generally pointless in this day and age. There are also some cases of simply untrustworthy creators that may be added to this list, but they may be removed if they prove themselves to be trustworthy in the future.
   
-  - Coercion Gear on Approval Basis ONLY
-  - Large scale AoE crowd control (ie. Chaos Riot Gas, etc)
-  - "Stun" effects. If it locks you in place and it isn't a Gravity grenade, don't use it.
-  
+  - Large scale AoE crowd control (for example, Chaos riot gas, etc)
+  - "Stun" effects. If it locks you in place and it isn't a gravity grenade, don't use it.
+  - The AN HUD is not permitted due to constant raycast check failures on the frag grenade. 
+
+
 ## Authorized 3rd Party Equipment
   
-  This list is a basic break down of gear permitted by 3rd party "Civilians" on the defending side. If it's on this list it's universally permitted by anyone to use in a case of need.
+  Gear permitted for non-ESC Civilian defenders can be found [here](https://epsilonsecurityconsulting.net/viewtopic.php?f=2&t=641). If something on this list, it's universally permitted for attackers to use as well.
   
-  - Dkok Combat HUD sold by Ehrik Imari on Marketplace
-  - D18 Weapons by Hokusai Otsuka
-  - SLMC Vendor Weapons by Sin Straaf
-  - /MURDER\ Weapons by Crow (MarauderTwo)
-  - Heretech Weapons by Dread Hudson
-  - K18 by Katt (Ximonah Resident)
-  - Union Weaponry by Bailey
+  
+## Volcano Build Specific Information
 
-## Volcano Build Specific Rules & Info
+  - Stay off the dam. It entirely ruins line of sight on the sim and its mostly for looks. 
+  - The same goes for the volcano until the building and underground is completed. 
 
-  - Stay off the Dam. It entirely ruins sight lines on the sim and its mostly for looks. Same goes for the Volcano until the building and underground is completed. 
-  - More to follow as I think of it
+[RETURN TO TOP](#table-of-contents)
