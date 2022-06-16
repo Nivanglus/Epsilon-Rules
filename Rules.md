@@ -36,9 +36,7 @@ THIS IS A **LIVE** DOCUMENT THAT IS SUBJECT TO CHANGE AT ANY TIME. BE SURE TO CH
   
 ## General Conduct
 
-1. Harassment - While some level of competitive shit-talk is acceptable, we do not want to see toxic behavior. 
-   - We're all here to have fun, and there is no need to try and make people "tilt". If you're not having fun, leave.
-   - If show up with the sole intent to piss people off and waste time, you will be sent home.
+1. Harassment - While some level of competitive shit-talk is acceptable, being toxic crosses the line. If you aren't enjoying yourself, leave. Don't come here just to piss someone off or waste their time.
 
 2. Griefing - Griefing can be defined as producing any object in-world that intentionally causes script time to bog down or puts a strain on sim and/or users' FPS. Crashing the sim falls under this definition as well. 
    - This will automatically result in a 24-hour ban, minimum.
