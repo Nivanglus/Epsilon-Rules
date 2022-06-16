@@ -27,11 +27,11 @@ THIS IS A **LIVE** DOCUMENT THAT IS SUBJECT TO CHANGE AT ANY TIME. BE SURE TO CH
 
   We believe in giving most people an extra opportunity to show good behavior, when it's warranted, even in spite of previous poor behavior. However, there are some actions that go beyond even our ability to forgive. The following are cases that will result in a permanent ban from ESC's sim and any other ESC associated regions.
   
-    • Distribution of identifying real-life information about others, also called "doxxing";
-    • GPU crashing or any other griefing intended to damage a user's real-life PC hardware;
-    • Creative content theft and distribution without creator permission (ripping textures, copybotting, abusing permissions bugs, etc);
-    • Abuse of the Linden Labs AR (abuse report) system; that is, a bad-faith attempt to provoke a direct response from LL with the malicious intent to have someone's account suspended or banned.
-      - This, of course, does not apply for cases where individuals have a good-faith reason to involve LL (for example, threats of real-life violence, etc).
+  - Distribution of identifying real-life information about others, also called "doxxing";
+  - GPU crashing or any other griefing intended to damage a user's real-life PC hardware;
+  - Creative content theft and distribution without creator permission (ripping textures, copybotting, abusing permissions bugs, etc);
+  - Abuse of the Linden Labs AR (abuse report) system; that is, a bad-faith attempt to provoke a direct response from LL with the malicious intent to have someone's account suspended or banned.
+    - This, of course, does not apply for cases where individuals have a good-faith reason to involve LL (for example, threats of real-life violence, etc).
   
   
 ## General Conduct
