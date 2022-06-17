@@ -50,7 +50,7 @@ THIS IS A **LIVE** DOCUMENT THAT IS SUBJECT TO CHANGE AT ANY TIME. BE SURE TO CH
 
 5. Safe Zones - Both spawn locations at the corner of the sim are are safe zones. These are marked clearly by spawn doors or by a line on the ground. 
    - Accidental, isolated instances of breaching the safe zones will be forgiven, but continued or intentional cases of firing into or attempting to enter these zones will result in a warning, then a time out, and beyond until the point is understood.
-   - If attackers attempt to rush the spawn immediately on entry to take advantage of a slow defense response, they may be met with a similar response.
+   - If attackers attempt to rush the spawn immediately on entry to take advantage of a slow defense response, they may be equally rushed.
    - Attackers who use the safe zone to hide from counter fire while employing indirect weaponry (for example, mortars) forfeit this protection and will be targeted until the behavior ceases. 
 
 7. Demonstrations of gear may be requested.
