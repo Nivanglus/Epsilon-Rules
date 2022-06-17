@@ -140,7 +140,6 @@ THIS IS A **LIVE** DOCUMENT THAT IS SUBJECT TO CHANGE AT ANY TIME. BE SURE TO CH
   If an item is on this list, it was put there for a reason. It is likely considered to be super fucking lame or just generally pointless in this day and age. There are also some cases of simply untrustworthy creators that may be added to this list, but they may be removed if they prove themselves to be trustworthy in the future.
   
   - Large-scale AoE crowd control (for example, Chaos riot gas, etc)
-  - "Stun" effects. If it locks you in place and it isn't a gravity grenade, don't use it.
   - The AN HUD is not permitted due to constant raycast check failures on the frag grenade. 
 
 
