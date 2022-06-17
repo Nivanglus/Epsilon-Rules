@@ -15,7 +15,6 @@ THIS IS A **LIVE** DOCUMENT THAT IS SUBJECT TO CHANGE AT ANY TIME. BE SURE TO CH
    - [Deployables](#deployables)
    - [Authorized Third-Party Equipment](#authorized-third-party-equipment)
    - [Banned Equipment](#banned-equipment)
-   - [Volcano Build Specific Information](#volcano-build-specific-information)
 
 
 ## Common Sense Statute
