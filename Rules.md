@@ -48,19 +48,19 @@ THIS IS A **LIVE** DOCUMENT THAT IS SUBJECT TO CHANGE AT ANY TIME. BE SURE TO CH
 4. Sithacking - Sithacking or using personal teleporters to access areas that are otherwise off-limits to the public is not allowed. 
    - The first offense will result in being shot. Subsequent offenses will result in offenders being placed on an autokiller or given a temporary timeout off-sim.
 
-5. Safe Zones - Both spawn locations at the corner of the sim are are safe zones. These are marked clearly by spawn doors or by a line on the ground. 
+5. Safe Zones - The attackers and defenders each have an area to safely spawn into that is clearly marked.
    - Accidental, isolated instances of breaching the safe zones will be forgiven, but continued or intentional cases of firing into or attempting to enter these zones will result in a warning, then a time out, and beyond until the point is understood.
    - If attackers attempt to rush the spawn immediately on entry to take advantage of a slow defense response, they may be equally rushed.
    - Attackers who use the safe zone to hide from counter fire while employing indirect weaponry (for example, mortars) forfeit this protection and will be targeted until the behavior ceases. 
 
-7. Demonstrations of gear may be requested.
+6. Demonstrations of gear may be requested.
    - In the event that a particular piece of equipment being used on the sim comes into question, the standing OIC for ESC reserves the right to request a demonstration of the item. 
    - The OIC further reserves the right to request the equipment's removal from that combat session if they determine the item in question requires further examination by an individual with more expertise.
    - If a bug is discovered, the item should not be used anymore until it is fixed.
 
-8. What the OIC/Administration says goes, period.
+7. What the OIC or officer staff says, goes.
    - If there is a legitimate rule dispute mid-combat, it can and will wait until after combat to discuss the circumstances. 
-   - Refusal to follow the instruction of the OIC/Administration will result in removal from the region, and depending on how annoying you are or how often you have done this in the past, may result in time on the ban list also.
+   - Refusal to follow the instructions of the OIC or the request of officer staff will result in removal and/or a ban.
 
 
 ## Infantry Gear
@@ -73,12 +73,11 @@ THIS IS A **LIVE** DOCUMENT THAT IS SUBJECT TO CHANGE AT ANY TIME. BE SURE TO CH
    - Breaches are permitted, see deployables.
    - Air-strafing/dodgerolling mid-air is prohibited. 
 
-2. Gun Reload/Cooldown - Bullet projectile and energy weapons must a reasonable round limit, and after that round limit is exceeded, they must force a reload or overheat period that extends for a reasonable amount of time. 
+2. Gun Reload/Cooldown - Bullet projectile and energy weapons must have a reasonable round limit, and after that round limit is exceeded, they must force a reload or overheat period that extends for a reasonable amount of time. 
 
-3. Raycast Weaponry - Hybrid raycast is prohibited on ESC's sim. Raycast must use a reasonable offset for the that particular type of weapon and partial damage must be configured for any offsets.
+3. Raycast Weaponry - Hybrid raycast is prohibited on ESC's sim. Raycast must use a reasonable offset for that particular type of weapon and partial damage must be configured for any offsets.
    - RC offsets exceeding .05 are prohibited unless they have had prior testing and approval.
-   - Sensor-based shotguns - Shotguns should be a limited to a reasonable range for their respective types. For example, an automatic shotgun should not extend out to the maximum range of a sensor. 
-   - Agentlist weaponry is prohibited. If we discover you are using it and attempting to hide it, you will be warned, and the item added to a blacklist.
+   - Agentlist weaponry is prohibited.
 
 4. Explosives and Effects - All explosives and AoE effects are required to perform a raycast check to ensure that targets hit by it are not behind a wall or other obstruction.      
    - If the explosion does not appear to be performing raycast checks, the standing OIC for ESC reserves the right to request the item be checked. 
@@ -107,8 +106,8 @@ THIS IS A **LIVE** DOCUMENT THAT IS SUBJECT TO CHANGE AT ANY TIME. BE SURE TO CH
 
 3. Armored Aircraft - Aircraft armor is limited to 200HP for gunship-type craft and 500 HP for fleetships. Armor is prohibited on fighters and basic bombers. 
 
-4. Repairs - LBA Repairs may be completed by manually by users or while in a vehicle, but may not be completed by automated means. 
-   - Remote repairs are permitted, up to a maximum range of 10m.
+4. Repairs - Remote repairs are permitted, up to a maximum range of 10m and. The repairs must be completed per-tick, over a reasonable time period. 
+   - Automated self-repair is not permitted.
 
 
 ## Deployables
