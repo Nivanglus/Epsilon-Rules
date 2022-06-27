@@ -118,7 +118,8 @@ THIS IS A **LIVE** DOCUMENT THAT IS SUBJECT TO CHANGE AT ANY TIME. BE SURE TO CH
     - Breaches should never exceed 25 HP Inverse LBA.
     - "Engineering kit" generators are permitted to have a maximum of 250 HP.
 
-2. Deployable Quantity Limits - Deployables are limited to 2 of each type per person. Interceptors are restricted to 1 deployed per person.
+2. Deployable Quantity Limits - Deployables are limited to 5 of each type per person. Interceptors are restricted to 1 deployed per person.
+   - Exception is walls. No limit.
 
 3. Mines - Mines are limited to 5 per person maximum. Mines must be destructible by LBA or bullet damage and be built with a reasonable activation sensor. 
 
