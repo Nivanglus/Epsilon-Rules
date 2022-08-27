@@ -62,6 +62,9 @@ THIS IS A **LIVE** DOCUMENT THAT IS SUBJECT TO CHANGE AT ANY TIME. BE SURE TO CH
    - If there is a legitimate rule dispute mid-combat, it can and will wait until after combat to discuss the circumstances. 
    - Refusal to follow the instructions of the OIC or the request of officer staff will result in removal and/or a ban.
 
+8. Don't Alpha/Beta/RC test gear without asking the OIC 
+   - Make your request before combat begins, mid combat requests are likely to be denied.
+   - We're willing to be flexible, this depends on your rigidity of this rule on other group owned regions.
 
 ## Infantry Gear
 
