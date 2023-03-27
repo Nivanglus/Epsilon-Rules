@@ -12,9 +12,10 @@ THIS IS A **LIVE** DOCUMENT THAT IS SUBJECT TO CHANGE AT ANY TIME. BE SURE TO CH
    - [General Conduct](#general-conduct)
    - [Infantry Gear](#infantry-gear)
    - [Vehicles and LBA](#vehicles-and-lba)
-   - [Deployables](#deployables)
-   - [Authorized Third-Party Equipment](#authorized-third-party-equipment)
+   - [Deployables](#deployables)   
    - [Banned Equipment](#banned-equipment)
+   - [Authorized Third-Party Equipment](#authorized-third-party-equipment)
+   - [Changelog](#changelog)
 
 
 ## Common Sense Statute
@@ -143,11 +144,16 @@ THIS IS A **LIVE** DOCUMENT THAT IS SUBJECT TO CHANGE AT ANY TIME. BE SURE TO CH
   
   - Large-scale AoE crowd control (for example, Chaos riot gas, etc)
   - The AN HUD is not permitted due to constant raycast check failures on the frag grenade. 
+  - Seekers & Flak munitions are not permitted to be utilized on unarmored aircraft
 
 
 ## Authorized 3rd Party Equipment
   
   Gear permitted for non-ESC Civilian defenders can be found [here](https://epsilonsecurityconsulting.net/viewtopic.php?f=2&t=641)(public). If something is on this list, it's universally permitted for attackers to use as well.
+  
+  
+## Changelog
+   - 27MAR2023 - Added restrictions to Flak Munitions & Seekers on Unarmored Aircraft
 
 
 [RETURN TO TOP](#table-of-contents)
