@@ -72,10 +72,9 @@ THIS IS A **LIVE** DOCUMENT THAT IS SUBJECT TO CHANGE AT ANY TIME. BE SURE TO CH
 1. Movement Enhancers
    - Sprints are allowed as long as they have a minimum 5-second cooldown between use.
    - Dodgerolls are permitted. 
-   - Boost/Jet/Buttpacks are permitted, with limits: (to be added)
-   - Grapples are permitted, with limits: (to be added)
+   - Grapples/Boost/Jet/Buttpacks are allowed with reasonable statistics, if you have questions please notify the OIC to test and approve it.
    - Breaches are permitted, see deployables.
-   - Air-strafing/dodgerolling mid-air is prohibited. 
+   - Air-strafing/dodgerolling mid-air is prohibited.
 
 2. Gun Reload/Cooldown - Bullet projectile and energy weapons must have a reasonable round limit, and after that round limit is exceeded, they must force a reload or overheat period that extends for a reasonable amount of time. 
 
