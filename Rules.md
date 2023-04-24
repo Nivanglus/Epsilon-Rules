@@ -143,7 +143,8 @@ THIS IS A **LIVE** DOCUMENT THAT IS SUBJECT TO CHANGE AT ANY TIME. BE SURE TO CH
   
   - Large-scale AoE crowd control (for example, Chaos riot gas, etc)
   - The AN HUD is not permitted due to constant raycast check failures on the frag grenade. 
-  - Seekers & Flak munitions are not permitted to be utilized on unarmored aircraft
+  - Flak Munitions are not permitted to be utilized on unarmored aircraft
+  - Seekers are only permitted on aircraft that are actively engaging ground targets
 
 
 ## Authorized 3rd Party Equipment
@@ -153,6 +154,7 @@ THIS IS A **LIVE** DOCUMENT THAT IS SUBJECT TO CHANGE AT ANY TIME. BE SURE TO CH
   
 ## Changelog
    - 27MAR2023 - Added restrictions to Flak Munitions & Seekers on Unarmored Aircraft
+   - 23APR2023 - Added Changes to Flak/Seeker Rule. Seekers allowed on unarmored aircraft that engage ground targets. 
 
 
 [RETURN TO TOP](#table-of-contents)
