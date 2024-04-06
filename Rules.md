@@ -76,23 +76,25 @@ THIS IS A **LIVE** DOCUMENT THAT IS SUBJECT TO CHANGE AT ANY TIME. BE SURE TO CH
    - Breaches are permitted, see deployables.
    - Air-strafing/dodgerolling mid-air is prohibited.
 
-2. Gun Reload/Cooldown - Bullet projectile and energy weapons must have a reasonable round limit, and after that round limit is exceeded, they must force a reload or overheat period that extends for a reasonable amount of time. 
+2. Gun Damage & Reloads - Bullet projectile and energy weapons must have a reasonable round limit, and after that round limit is exceeded, they must force a reload or overheat period that extends for a reasonable amount of time.
+   - We prefer to utilize partial damage, If you have that as an option in your guns that would be the preferred damage model used. 
 
-3. Raycast Weaponry - Hybrid raycast is prohibited on ESC's sim. Raycast must use a reasonable offset for that particular type of weapon and partial damage must be configured for any offsets.
+4. Raycast Weaponry - Hybrid raycast is prohibited on ESC's sim. Raycast must use a reasonable offset for that particular type of weapon and partial damage must be configured for any offsets.
    - RC offsets exceeding .05 are prohibited unless they have had prior testing and approval.
    - Agentlist weaponry is prohibited.
 
-4. Explosives and Effects - All explosives and AoE effects are required to perform a raycast check to ensure that targets hit by it are not behind a wall or other obstruction.      
-   - If the explosion does not appear to be performing raycast checks, the standing OIC for ESC reserves the right to request the item be checked. 
+5. Explosives and Effects - All explosives and AoE effects are required to perform a raycast check to ensure that targets hit by it are not behind a wall or other obstruction.      
+   - If the explosion does not appear to be performing raycast checks, the standing OIC for ESC reserves the right to request the item be checked.
+   - Standard Frag grenades are not permitted to be impact, 3 second timer minimum.
    - Any persistent effect used can last no longer than 30 seconds and may not replicate itself. 
    - This is enforced on a case-by-case basis due to the good old limitations of Second Life and timers. 
 
-5. Seeker Weaponry - Seekers must make use of the newly adopted seeker system developed by Sin and Criss Ixtar to allow for unified flare use. Seekers must also provide a lock-on tone to the target.
+6. Seeker Weaponry - Seekers must make use of the newly adopted seeker system developed by Sin and Criss Ixtar to allow for unified flare use. Seekers must also provide a lock-on tone to the target.
 
-6. Riot Shields - Permitted. However, since it apparently needs to be stated clearly, riot shields must not exceed 50 LBA HP and must go phantom or deactivate when firing.
+7. Riot Shields - Permitted. However, since it apparently needs to be stated clearly, riot shields must not exceed 50 LBA HP and must go phantom or deactivate when firing.
    - IN OTHER WORDS, DON'T FIRE WHEN SHIELD IS UP, RETARDS.
 
-7. Usage of Closed/Defunct Group Gear - Gear from closed groups is permitted on a case-by-case basis. Below is a limited list of specific things that are currently approved:
+8. Usage of Closed/Defunct Group Gear - Gear from closed groups is permitted on a case-by-case basis. Below is a limited list of specific things that are currently approved:
     - Coercion: Permitted, but exercise common sense. Do not use the dumb dumb av-flying sword.
     - AN: The AN CAR and PDW are permitted for use as they have been extensively tested.
 
@@ -155,6 +157,6 @@ THIS IS A **LIVE** DOCUMENT THAT IS SUBJECT TO CHANGE AT ANY TIME. BE SURE TO CH
 ## Changelog
    - 27MAR2023 - Added restrictions to Flak Munitions & Seekers on Unarmored Aircraft
    - 23APR2023 - Added Changes to Flak/Seeker Rule. Seekers allowed on unarmored aircraft that engage ground targets. 
-
+   - 06MAR2024 - Added rules regarding impact grenades and preferrence for partial damage
 
 [RETURN TO TOP](#table-of-contents)
